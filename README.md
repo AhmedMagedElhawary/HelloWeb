@@ -1,2 +1,2 @@
 # HelloWeb
-![alt text](https://github.com/AhmedMagedElhawary/HelloWeb/ContinuousIntegration.jpg)
+![Screenshot](ContinuousIntegration.jpg)
